@@ -16,7 +16,7 @@
       <a class="btn btn-info" href="addlocation">Add Location</a>
       <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#locationsModal">View Locations</button>
     </div>
-
+    
     <table class="table table-striped" id="proyekTable" style="width:100%">
       <thead>
         <th>Nama Proyek</th>
