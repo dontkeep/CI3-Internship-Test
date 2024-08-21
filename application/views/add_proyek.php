@@ -130,7 +130,7 @@ function submitProyek() {
     .catch(error => {
         console.error('There was an error saving the project!', error);
     });
-}
+}   
 </script>
 </body>
 </html>
